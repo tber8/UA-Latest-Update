@@ -1,4 +1,4 @@
-UATestDummy3/Binaries/Win64/UATestDummy3.exe	2020-12-03T04:20:55.988Z
+UATestDummy3/Binaries/Win64/UATestDummy3.exe	2020-12-06T21:34:50.131Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2020-05-20T19:03:12.062Z
 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2020-05-20T18:25:33.207Z
 Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2020-05-20T18:20:14.605Z
@@ -19,4 +19,4 @@ Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	
 Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll	2020-05-20T18:25:47.098Z
 Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll	2020-05-20T18:32:41.219Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2020-05-20T18:32:47.066Z
-UATestDummy3.exe	2020-12-03T05:15:37.034Z
+UATestDummy3.exe	2020-12-13T19:55:25.583Z
